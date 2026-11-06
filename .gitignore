@@ -1,0 +1,39 @@
+# Flutter generated files
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/ephemeral/
+
+# Android generated files
+**/.gradle/
+**/local.properties
+**/key.properties
+*.jks
+*.keystore
+
+# IDE files
+**/.idea/
+.vscode/
+
+# Node.js
+**/node_modules/
+npm-debug.log*
+
+# Secrets
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+*serviceAccount*.json
+*credentials*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated Flutter plugin registrants
+**/generated_plugin_registrant.*
+**/GeneratedPluginRegistrant.*
+**/generated_plugins.cmake
